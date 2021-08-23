@@ -1,4 +1,4 @@
-# TallerReact
+# <h1 align="center">Taller React</h1>
 # Herramientas necesarias :computer:
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es&authuser=1)
 - [Visual Studio Code](https://code.visualstudio.com)
