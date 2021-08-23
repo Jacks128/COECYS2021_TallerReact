@@ -11,7 +11,7 @@
 
 # Presentacion y Video :woman_teacher:
 - [Presentacion](https://www.canva.com/design/DAEn3qFyeDE/Qp2v5qxKlGKC3bNO20UJzw/view?utm_content=DAEn3qFyeDE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-- [Video](https://drive.google.com/drive/u/1/shared-with-me)
+- [Video](https://drive.google.com/file/d/1Detym-BfSL48fZdZPu17DdPmYjtbfyTW/view?usp=sharing)
 
 # Codigo 🔎
 Ver la rama "Master"
